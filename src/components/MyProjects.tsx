@@ -22,7 +22,7 @@ const MyProjects: FC<MyProjectsProps> = ({ projects }) => {
         >
           <div data-scroll data-scroll-speed="3" className="lg:flex-1">
             <div className="border-[#888] border-2 rounded-[20px] overflow-hidden">
-              <div className="border-black border-[8px]">
+              <div className="m-auto w-[40vw]">
                 <img
                   className="w-full h-auto rounded-[12px]"
                   src={project?.image}
