@@ -1,3 +1,3 @@
-## Jaguar's Portfolio
+## Derek's Portfolio
 
     full stack developer
